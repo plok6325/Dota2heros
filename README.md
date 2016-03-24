@@ -5,6 +5,8 @@ v社最近的更新允许自定义每个英雄的独立快捷键，
 
 
 关于cfg 的使用攻略
+
 详细版 http://bbs.ngacn.cc/read.php?tid=8865479 
+
 感谢发帖者 momomomaoli  的杰出贡献
 
