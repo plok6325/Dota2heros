@@ -1,0 +1,36 @@
+bind "q" "dota_ability_execute 0" // Q = ±ù
+bind "w" "dota_ability_execute 1" // W = À×
+bind "e" "dota_ability_execute 2" // E = »ğ
+bind "d" "dota_ability_execute 3" // D = µÚÒ»¸ö¼¼ÄÜ
+bind "r" "dota_ability_execute 5" // R = ÕÙ»½
+
+
+// t for sunstrikeÑôÑ×³å»÷
+bind "t" "dota_ability_execute 2;dota_ability_execute 2;dota_ability_execute 2;dota_ability_execute 5"
+
+// h for forge spiritsÈÛÂ¯¾«Áé
+bind "h" "dota_ability_execute 0;dota_ability_execute 2;dota_ability_execute 2;dota_ability_execute 5"
+
+// y for meteorÔÉÊ¯
+bind "y" "dota_ability_execute 1;dota_ability_execute 2;dota_ability_execute 2;dota_ability_execute 5"
+
+// j for cold snap¼±ËÙÀäÈ´
+bind "j" "dota_ability_execute 0;dota_ability_execute 0;dota_ability_execute 0;dota_ability_execute 5"
+
+// i for ghost walkÓÄÁéÂş²½
+bind "i" "dota_ability_execute 0;dota_ability_execute 0;dota_ability_execute 1;dota_ability_execute 5"
+
+// b for icewall±ùÇ½
+bind "b" "dota_ability_execute 0;dota_ability_execute 0;dota_ability_execute 2;dota_ability_execute 5"
+
+// l for empÀ×±©
+bind "l" "dota_ability_execute 1;dota_ability_execute 1;dota_ability_execute 1;dota_ability_execute 5"
+
+// k for tornadoÇ¿Ï®ì«·ç
+bind "k" "dota_ability_execute 1;dota_ability_execute 1;dota_ability_execute 0;dota_ability_execute 5"
+
+// n for alacrityÑ¸½İ
+bind "n" "dota_ability_execute 1;dota_ability_execute 1;dota_ability_execute 2;dota_ability_execute 5"
+
+// u for deafening blast³¬Éù²¨
+bind "u" "dota_ability_execute 0;dota_ability_execute 1;dota_ability_execute 2;dota_ability_execute 5"
