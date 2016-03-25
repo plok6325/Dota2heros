@@ -81,6 +81,8 @@ http://tieba.baidu.com/p/4433775400?pid=86315579637&cid=86320400613#86320400613
 
 编织者 weaver.cfg
 
+马格纳斯 magnus.cfg
+
 ### 有趣的小功能
 
 远程英雄高台打野 jungle.cfg
