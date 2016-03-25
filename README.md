@@ -59,6 +59,8 @@ http://tieba.baidu.com/p/4433775400?pid=86315579637&cid=86320400613#86320400613
 
 ###已支持英雄列表 
 
+斧王 axe.cfg
+
 刚被兽 bb.cfg
 
 小骷髅 clinkz.cfg
