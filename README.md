@@ -27,7 +27,11 @@ http://tieba.baidu.com/p/4433775400?pid=86315579637&cid=86320400613#86320400613
 
 详细版 http://bbs.ngacn.cc/read.php?tid=8865479 
 
-感谢发帖者 momomomaoli  的杰出贡献
+进阶版 http://bbs.ngacn.cc/read.php?tid=9004294
+
+感谢发帖者 momomomaoli ，方雅客 的杰出贡献
+
+部分cfg 完全照抄或启发于以上两个网页。
 
 #如何使用github
 
@@ -84,6 +88,8 @@ http://tieba.baidu.com/p/4433775400?pid=86315579637&cid=86320400613#86320400613
 编织者 weaver.cfg
 
 马格纳斯 magnus.cfg
+
+影魔 sf.cfg
 
 ### 有趣的小功能
 
