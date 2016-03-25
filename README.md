@@ -57,3 +57,30 @@ http://tieba.baidu.com/p/4433775400?pid=86315579637&cid=86320400613#86320400613
   *刃甲，臂章等物品不能占据1号物品栏
 
 
+###已支持英雄列表 
+
+刚被兽 bb.cfg
+
+小骷髅 clinkz.cfg
+
+谜团 enigma
+
+船长 kunkka.cfg
+
+军团指挥官 lc.cfg
+
+美杜莎 medusa.cfg
+
+米波 meepo.cfg
+
+帕克 puck.cfg
+
+沙王 sk.cfg 
+
+圣堂刺客ta.cfg
+
+编织者 weaver.cfg
+
+### 有趣的小功能
+
+远程英雄高台打野 jungle.cfg
